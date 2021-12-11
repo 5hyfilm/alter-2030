@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 054dfa9b87cebe148a29838a7bb238de
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankleLeft
+    100002: ankleRight
+    100004: aNTeNNa_trEE
+    100006: antennaLeft1
+    100008: antennaLeft2
+    100010: antennaLeft3
+    100012: antennaRight1
+    100014: antennaRight2
+    100016: antennaRight3
+    100018: elbowLeft
+    100020: elbowRight
+    100022: footLeft
+    100024: footRight
+    100026: handLeft
+    100028: handRight
+    100030: head
+    100032: hipLeft
+    100034: hipRight
+    100036: indexFingerLeft1
+    100038: indexFingerLeft2
+    100040: indexFingerLeft3
+    100042: indexFingerLeft4
+    100044: indexFingerRight1
+    100046: indexFingerRight2
+    100048: indexFingerRight3
+    100050: indexFingerRight4
+    100052: kneeLeft
+    100054: kneeRight
+    100056: //RootNode
+    100058: Lerpz
+    100060: middleFingerLeft1
+    100062: middleFingerLeft2
+    100064: middleFingerLeft3
+    100066: middleFingerLeft4
+    100068: middleFingerRight1
+    100070: middleFingerRight2
+    100072: middleFingerRight3
+    100074: middleFingerRight4
+    100076: mouthBottom1
+    100078: mouthBottom2
+    100080: mouthLeft1
+    100082: mouthLeft2
+    100084: mouthRight1
+    100086: mouthRight2
+    100088: mouthTop1
+    100090: mouthTop2
+    100092: pinkyFingerLeft1
+    100094: pinkyFingerLeft2
+    100096: pinkyFingerLeft3
+    100098: pinkyFingerLeft4
+    100100: pinkyFingerRight1
+    100102: pinkyFingerRight2
+    100104: pinkyFingerRight3
+    100106: pinkyFingerRight4
+    100108: rootJoint
+    100110: shoulderLeft
+    100112: shoulderRight
+    100114: shoulders
+    100116: thumbLeft1
+    100118: thumbLeft2
+    100120: thumbLeft3
+    100122: thumbRight1
+    100124: thumbRight2
+    100126: thumbRight3
+    100128: toeLeft
+    100130: toeLeftTip
+    100132: toeRight
+    100134: toeRightTip
+    100136: torso
+    100138: wristLeft
+    100140: wristRight
+    400000: ankleLeft
+    400002: ankleRight
+    400004: aNTeNNa_trEE
+    400006: antennaLeft1
+    400008: antennaLeft2
+    400010: antennaLeft3
+    400012: antennaRight1
+    400014: antennaRight2
+    400016: antennaRight3
+    400018: elbowLeft
+    400020: elbowRight
+    400022: footLeft
+    400024: footRight
+    400026: handLeft
+    400028: handRight
+    400030: head
+    400032: hipLeft
+    400034: hipRight
+    400036: indexFingerLeft1
+    400038: indexFingerLeft2
+    400040: indexFingerLeft3
+    400042: indexFingerLeft4
+    400044: indexFingerRight1
+    400046: indexFingerRight2
+    400048: indexFingerRight3
+    400050: indexFingerRight4
+    400052: kneeLeft
+    400054: kneeRight
+    400056: //RootNode
+    400058: Lerpz
+    400060: middleFingerLeft1
+    400062: middleFingerLeft2
+    400064: middleFingerLeft3
+    400066: middleFingerLeft4
+    400068: middleFingerRight1
+    400070: middleFingerRight2
+    400072: middleFingerRight3
+    400074: middleFingerRight4
+    400076: mouthBottom1
+    400078: mouthBottom2
+    400080: mouthLeft1
+    400082: mouthLeft2
+    400084: mouthRight1
+    400086: mouthRight2
+    400088: mouthTop1
+    400090: mouthTop2
+    400092: pinkyFingerLeft1
+    400094: pinkyFingerLeft2
+    400096: pinkyFingerLeft3
+    400098: pinkyFingerLeft4
+    400100: pinkyFingerRight1
+    400102: pinkyFingerRight2
+    400104: pinkyFingerRight3
+    400106: pinkyFingerRight4
+    400108: rootJoint
+    400110: shoulderLeft
+    400112: shoulderRight
+    400114: shoulders
+    400116: thumbLeft1
+    400118: thumbLeft2
+    400120: thumbLeft3
+    400122: thumbRight1
+    400124: thumbRight2
+    400126: thumbRight3
+    400128: toeLeft
+    400130: toeLeftTip
+    400132: toeRight
+    400134: toeRightTip
+    400136: torso
+    400138: wristLeft
+    400140: wristRight
+    2100000: blinn1
+    4300000: Lerpz
+    7400000: Walk
+    7400002: Sprint
+    7400004: Idle
+    7400006: Punch
+    9500000: //RootNode
+    13700000: Lerpz
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: ca4d8c2782ff85d41af8e01cd9fc50f2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Punch
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 459
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.79999995
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: boy(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: boy_mesh
+      parentName: boy(Clone)
+      position: {x: -0, y: 0.6699, z: 0.172836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: boy_mesh
+      position: {x: -0, y: -0.6699, z: -0.172836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: face
+      parentName: boy_mesh
+      position: {x: -0, y: -0.6699, z: -0.172836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: boy_rig
+      parentName: boy(Clone)
+      position: {x: 0.000021037082, y: 0.54946053, z: 0.17283626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hip
+      parentName: boy_rig
+      position: {x: 0.000053736192, y: -0.032361623, z: -0.18678565}
+      rotation: {x: 0.000730251, y: -1.7347245e-18, z: 1.2667847e-21, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hip
+      position: {x: 0.0010186221, y: 0.24515499, z: 0.006158256}
+      rotation: {x: 0.040091686, y: -2.532807e-16, z: 1.016262e-17, w: 0.999196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperArmLeft
+      parentName: Spine
+      position: {x: -0.21097833, y: 0.1347161, z: -0.038940888}
+      rotation: {x: -0.016780976, y: 0.06598566, z: 0.09066724, w: 0.9935511}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: LowerArmLeft
+      parentName: UpperArmLeft
+      position: {x: -0.26133016, y: 0.06546652, z: -0.04597428}
+      rotation: {x: 0.011907149, y: -0.032567415, z: -0.10416521, w: 0.9939554}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: HandLeft
+      parentName: LowerArmLeft
+      position: {x: -0.19316703, y: -0.018584015, z: -0.008388634}
+      rotation: {x: 1.4224733e-15, y: -9.8607613e-32, z: -6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperArmRight
+      parentName: Spine
+      position: {x: 0.20879152, y: 0.1347161, z: -0.038940888}
+      rotation: {x: -0.6812829, y: 0.012245494, z: -0.11146584, w: 0.7233803}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: LowerArmRight
+      parentName: UpperArmRight
+      position: {x: 0.26133013, y: 0.05189774, z: 0.060877718}
+      rotation: {x: 0.8590248, y: -0.015501783, z: 0.108030744, w: 0.5001654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HandRight
+      parentName: LowerArmRight
+      position: {x: 0.19316703, y: -0.020122604, z: 0.0032886658}
+      rotation: {x: 5.425382e-12, y: -1.284e-41, z: -2.3665827e-30, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: neck
+      parentName: Spine
+      position: {x: -0.0018923662, y: 0.24711196, z: 0.006094906}
+      rotation: {x: 0.027124718, y: -4.439258e-16, z: 1.20457945e-17, w: 0.99963206}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: neck
+      position: {x: -0.00014635634, y: 0.14765441, z: -0.00062420656}
+      rotation: {x: -8.7430063e-16, y: 9.8607613e-32, z: -2.4651903e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLegLeft
+      parentName: Hip
+      position: {x: -0.1356448, y: -0.030086992, z: 0.0006709601}
+      rotation: {x: -0.031595122, y: -3.852076e-34, z: -5.4025323e-36, w: 0.99950075}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLegLeft
+      parentName: UpperLegLeft
+      position: {x: 0.0068492126, y: -0.20083424, z: -0.01608853}
+      rotation: {x: -0.8031927, y: 2.1164202e-15, z: 2.8535136e-15, w: 0.59571934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FootLeft
+      parentName: LowerLegLeft
+      position: {x: 0.0074357186, y: 0.09191109, z: -0.21714053}
+      rotation: {x: 0.8555125, y: -2.7450534e-14, z: 4.5355507e-14, w: 0.51778215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLegRight
+      parentName: Hip
+      position: {x: 0.13549526, y: -0.030086992, z: 0.0006709601}
+      rotation: {x: -0.031595122, y: 8.87735e-16, z: 2.806211e-17, w: 0.99950075}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLegRight
+      parentName: UpperLegRight
+      position: {x: -0.0068492126, y: -0.20083424, z: -0.01608853}
+      rotation: {x: -0.8031927, y: -5.402256e-15, z: -7.283719e-15, w: 0.59571934}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FootRight
+      parentName: LowerLegRight
+      position: {x: -0.0074357186, y: 0.09191109, z: -0.21714053}
+      rotation: {x: 0.8555125, y: -2.88953e-14, z: 4.774264e-14, w: 0.51778215}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.492
+    foreArmTwist: 0.5
+    upperLegTwist: 0.502
+    legTwist: 0.5
+    armStretch: 0.041
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: rootJoint
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

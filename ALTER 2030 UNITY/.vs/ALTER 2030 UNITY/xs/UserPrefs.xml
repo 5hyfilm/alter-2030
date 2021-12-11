@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{89AF3A54-7207-58DD-3392-410EDC1B43DF}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="28" Column="5" />
+      <File FileName="Assets/Scripts/WasteCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VolumeController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TimeLine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LeafCollider.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
